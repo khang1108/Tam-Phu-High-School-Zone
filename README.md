@@ -8,6 +8,9 @@ Your efforts, ideas, and support have been invaluable in making it better.
 
 **Contributors:**
 - [Nguyễn Phúc Khang](https://github.com/khang1108) — **Leader** of the project
+- [Nguyễn Hoàng Giáp](https://github.com/HoangGJinn) - **Backend Developer** of the project
+- [Nguyễn Công Trực](https://github.com/ngcotruc17) - **Frontend Developer** of the project
+- [Văn Bá Thái] - **Artist**
 
 Thank you for your dedication and willingness to help! 
 
